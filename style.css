@@ -1,0 +1,47 @@
+ * {
+   background: lightcyan;
+   }
+
+title, h1{ 
+          font-family: noteworthy-bold;
+          }
+
+ h4 { 
+    color: darkred;
+    font-family: AmericanTypewriter-Bold;
+    }
+
+ h1 {
+     color: midnightblue;
+     }
+
+ h3 { 
+     color: midnightblue;
+     font-family: avenirnext-demibolditalic;
+     }
+
+ p {
+    font-family: Copperplate-Bold;
+    }
+
+ ul {
+     color: Red;
+     }
+
+ li { 
+     font-family: copperplate-light;
+     color: midnightblue;
+     }
+
+ h6 {
+     font-family: Copperplate-Bold;
+     } 
+
+ ul {
+     font-family: noteworthy-light;
+     }
+
+ a {
+    font-family: chalkduster;
+    color: darkcyan;
+    }
